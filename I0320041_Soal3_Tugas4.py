@@ -1,4 +1,7 @@
 x = 50
-w = int(input("Masukkan Berat Bagasi :"))
+a = 120
+b = 49
 
-print(w <= x)
+print("Berat maksimum bagasi adalah",x,"kg")
+print("a =",a,"kg",",",a <= x)
+print("b =",b,"kg",",",b <= x)
